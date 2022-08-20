@@ -10,6 +10,15 @@ ngrok http 8787
 
 - Step 2: Run main.py 
 python main.py
+- Step 3: Start InfluxDB service
+> sudo systemctl enable influxdb
+> sudo systemctl start influxdb
+> sudo service influxdb start
+Set Port On EC2
+Influx 預設開設在 Port: 8086
+在 EC2 上開啟 8086
+
+
 
 ### Directions
 - A is first number  
