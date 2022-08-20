@@ -21,4 +21,4 @@ A / B -->A divided by B
 #note [事件] [+/-] [錢]  
 #delete [事件]  
 #report   
-#sum   
+#sum 還沒做 有空補
